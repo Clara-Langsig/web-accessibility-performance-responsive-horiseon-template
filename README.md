@@ -780,9 +780,9 @@ Notér gerne resultaterne i en lille tabel.
 
 | Billede                            | Format | Dimensioner | Filstørrelse | Relevant at optimere? |
 | ---------------------------------- | ------ | ----------: | -----------: | --------------------- |
-| `search-engine-optimization.jpg`   |        |             |              |                       |
-| `online-reputation-management.jpg` |        |             |              |                       |
-| `social-media-marketing.jpg`       |        |             |              |                       |
+| `search-engine-optimization.jpg`   |   JPG  | 7360x4912 px|   14.18MB    |          Ja           |
+| `online-reputation-management.jpg` |   JPG  | 4404x2877 px|    6.36MB    |          Ja           |
+| `social-media-marketing.jpg`       |   JPG  | 5000x3451 px|   13.59MB    |          Ja           |
 
 ---
 
