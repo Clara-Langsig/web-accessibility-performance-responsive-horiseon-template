@@ -522,10 +522,14 @@ a {
 
 Undersøg navigationen og vurder:
 
-- Er det tydeligt, at teksterne er links?
+- Er det tydeligt, at teksterne er links? 
+    Nej 
 - Er links tydelige ved hover?
+    Ikke udover at musen ændres 
 - Er links tydelige ved keyboard-fokus?
+    Nej
 - Er designet afhængigt af farve alene?
+    Nej
 
 > Det er ikke automatisk en accessibility-fejl at fjerne understregningen fra links i en tydelig navigation. Du skal vurdere linkets kontekst.
 
