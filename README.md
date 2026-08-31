@@ -575,9 +575,13 @@ Enter
 Kontrollér:
 
 - Kan du nå alle links?
+    Nej
 - Kan navigationen bruges?
+    Nej
 - Følger fokus en logisk rækkefølge?
+    Nej
 - Kan du se, hvilket element der har fokus?
+    Nej
 
 ## Korrekt princip
 
