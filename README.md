@@ -619,10 +619,15 @@ Zoom browseren til:
 Undersøg:
 
 - Er al tekst stadig synlig?
+    Nej
 - Løber tekst uden for bokse?
+    Ja
 - Overlapper elementer?
+    Ja
 - Kan bokse vokse med indholdet?
+    Nej
 - Opstår der unødvendig vandret scrolling?
+    Ja
 
 ## Korrekt princip
 
