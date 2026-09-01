@@ -1542,10 +1542,16 @@ Test navigationen ved blandt andet:
 Kontrollér:
 
 - Kan alle links læses?
+    Nej ikke ved 320 px.
 - Bliver links klippet?
+    Ja ved 320 px.
 - Overlapper de logoet?
+    Nej.
 - Er der passende afstand mellem links?
+    Synes jeg ikke, da man ikke kan se om det er tre forskellige links eller ét link.
 - Kan de fortsat bruges med tastatur?
+    Ja men ikke ved 320 px og 480 px 
+
 
 Overvej om:
 
