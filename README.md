@@ -1569,6 +1569,9 @@ eller ændring af `flex-direction` kan være relevant.
 
 Sammenlign dit resultat med referencebilledet.
 
+    Kan ikke se referencebilledet
+    Der står at det ikke tilgængeligt
+
 Vurder:
 
 - overordnet placering
@@ -1611,6 +1614,8 @@ Test også ved:
 ```text
 200 % zoom
 ```
+
+    Bemærkning: Der er gået noget galt med Benefits-sektionen under den responsive tilpasning. På mindre skærmstørrelser placerer sektionen sig ikke korrekt i forhold til det ønskede layout, og noget af teksten kan gå uden for den blå container. Dette skal undersøges og rettes.
 
 ---
 
