@@ -1627,8 +1627,8 @@ Registrér:
 
 | Måling        | Før | Efter |
 | ------------- | --: | ----: |
-| Accessibility |     |       |
-| Performance   |     |       |
+| Accessibility |  67 |  92   |
+| Performance   |  75 |  99   |
 
 ### Målsætning
 
