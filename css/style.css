@@ -100,7 +100,11 @@ main.content > h1 {
     flex: 1;
 }
 
-.benefits {
+aside.benefits {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.4rem;
     margin-right: 20px;
     padding: 20px;
     width: 20%;
