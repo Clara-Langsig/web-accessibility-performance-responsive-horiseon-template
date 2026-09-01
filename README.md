@@ -946,8 +946,11 @@ Test eksempelvis:
 Undersøg:
 
 - Bliver navigationen for bred?
+    Ja
 - Overlapper indhold?
+    Nej
 - Bliver serviceområderne for smalle?
+    Ja, tekstområderne bliver smalle pga. billederne
 - Bliver Benefits-kolonnen for smal?
 - Skalerer billederne?
 - Opstår vandret scrolling?
@@ -962,8 +965,12 @@ Starter-CSS'en bruger blandt andet:
 
 ```css
 float: left;
+    Bruges på billederne i serviceområderne, så billederne placeres til venstre for teksten.
 float: right;
+    Bruges på billederne i serviceområderne, så billederne placeres til højre for teksten.
+    Bruges også på Benefits-kolonnen, så den placeres til højre for .content.
 display: inline-block;
+    Bruges på .content og .logo for at placere elementerne ved siden af andre elementer.
 ```
 
 Undersøg, hvilke elementer disse regler forsøger at placere.
@@ -972,7 +979,12 @@ Undersøg, hvilke elementer disse regler forsøger at placere.
 
 ```text
 Hvilke elementer skal stå ved siden af hinanden?
+    På en stor skærm skal .content og .benefits stå ved siden af hinanden.
+    Ligeledes på en stor skærm skal billederne i serviceområderne stå ved siden af teksten.
 Hvilke elementer skal stå under hinanden?
+    De tre serviceområder skal stå under hinanden. 
+    De tre Benefits-elementer skal stå under hinanden. 
+    På små skærme skal .content og .benefits også stå under hinanden.
 ```
 
 Før du skriver Flexbox, skal du forstå den ønskede struktur.
